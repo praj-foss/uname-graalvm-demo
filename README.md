@@ -8,7 +8,7 @@ found in Unix-likes.
 ## Building
 You'll need JDK 11 or higher installed. Use the following command to build:
 ```shell script
-./gradlew imageZip
+./gradlew nativeImage
 ```
 After compilation is done, run it using:
 ```
